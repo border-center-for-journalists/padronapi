@@ -8,5 +8,6 @@
   },
   "hooks": {
     "grunt": false,
+    "sockets" : false
   }
 }
