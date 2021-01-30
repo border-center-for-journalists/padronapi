@@ -10,6 +10,7 @@
  */
 
 module.exports.sockets = {
+  onlyAllowOrigins: ["http://soybeneficiario.netlify.app"]
 
   /***************************************************************************
   *                                                                          *
